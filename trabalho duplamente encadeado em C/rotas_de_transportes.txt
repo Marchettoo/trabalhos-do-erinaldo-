@@ -1,0 +1,9 @@
+Onibus - Linha 101: Centro -> Bairro A
+Onibus - Linha 202: Bairro B -> Bairro C
+Onibus - Linha 303: Bairro D -> Centro
+Metro - Linha Azul: Estacao 1 -> Estacao 5
+Metro - Linha Vermelha: Estacao 3 -> Estacao 7
+Onibus - Linha 404: Bairro E -> Bairro F
+VLT - Linha 1: Estacao X -> Estacao Y
+Trem - Linha Verde: Terminal Norte -> Terminal Sul
+Onibus - Linha 505: Bairro G -> Centro
