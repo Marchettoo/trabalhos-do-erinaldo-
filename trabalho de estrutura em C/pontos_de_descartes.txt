@@ -1,0 +1,59 @@
+Ponto A;Rua das Palmeiras 123;Plastico
+Ponto B;Avenida Central 456;Vidro
+Ponto C;Rua das Laranjeiras 789;Eletronicos
+Ponto D;Rua Rio Branco 321;Plastico
+Ponto E;Avenida Brasil 654;Vidro
+Ponto F;Rua das Acacias 110;Metal
+Ponto G;Rua Santos Dumont 220;Papel
+Ponto H;Avenida Independencia 330;Eletronicos
+Ponto I;Rua Tiradentes 440;Plastico
+Ponto J;Rua das Rosas 550;Vidro
+Ponto K;Avenida Getulio Vargas 660;Metal
+Ponto L;Rua Dom Pedro II 770;Papel
+Ponto M;Rua XV de Novembro 880;Eletronicos
+Ponto N;Avenida Colombo 990;Plastico
+Ponto O;Rua Sao Paulo 101;Vidro
+Ponto P;Rua Curitiba 202;Eletronicos
+Ponto Q;Rua Londrina 303;Metal
+Ponto R;Avenida Maringa 404;Papel
+Ponto S;Rua Ponta Grossa 505;Plastico
+Ponto T;Rua Cascavel 606;Vidro
+Ponto U;Rua Apucarana 707;Eletronicos
+Ponto V;Rua Umuarama 808;Papel
+Ponto W;Rua Cianorte 909;Plastico
+Ponto X;Avenida Arapongas 111;Metal
+Ponto Y;Rua Sarandi 222;Eletronicos
+Ponto Z;Rua Campo Mourao 333;Vidro
+Ponto AA;Rua Loanda 444;Plastico
+Ponto AB;Rua Cambira 555;Vidro
+Ponto AC;Avenida Brasilia 666;Metal
+Ponto AD;Rua Bela Vista 777;Papel
+Ponto AE;Rua Floresta 888;Eletronicos
+Ponto AF;Avenida Atlantica 999;Plastico
+Ponto AG;Rua Norte Sul 135;Vidro
+Ponto AH;Rua do Comercio 246;Papel
+Ponto AI;Rua Nova Era 357;Eletronicos
+Ponto AJ;Rua Aurora 468;Metal
+Ponto AK;Rua Esperanca 579;Plastico
+Ponto AL;Avenida Horizonte 680;Vidro
+Ponto AM;Rua Planalto 791;Eletronicos
+Ponto AN;Rua Sol Nascente 802;Papel
+Ponto AO;Rua da Amizade 913;Metal
+Ponto AP;Rua do Progresso 102;Plastico
+Ponto AQ;Rua Bela Arte 213;Vidro
+Ponto AR;Rua das Flores 324;Eletronicos
+Ponto AS;Rua do Lago 435;Papel
+Ponto AT;Rua do Campo 546;Plastico
+Ponto AU;Avenida do Sol 657;Vidro
+Ponto AV;Rua das Estrelas 768;Eletronicos
+Ponto AW;Rua Aurora Boreal 879;Metal
+Ponto AX;Rua Caminho Feliz 980;Plastico
+Ponto AY;Rua da Liberdade 123;Vidro
+Ponto AZ;Rua Santa Maria 234;Eletronicos
+Ponto BA;Rua Primavera 345;Papel
+Ponto BB;Rua das Pedras 456;Metal
+Ponto BC;Avenida da Paz 567;Plastico
+Ponto BD;Rua das Aguas 678;Vidro
+Ponto BE;Rua do Vento 789;Eletronicos
+Ponto BF;Rua do Horizonte 890;Papel
+Ponto BG;Rua da Colina 901;Metal
